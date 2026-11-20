@@ -559,6 +559,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### JSON
 
 - [JSON:API](https://jsonapi.org/) - A specification for how a client should request that resources be fetched or modified, and how a server should respond to those requests.
+- [NextJSON](https://nextjson.com/) - Free in-browser JSON formatter, validator and nested JSON parser for inspecting API payloads.
 
 ### REST
 
